@@ -1,0 +1,2 @@
+# Verus
+mining verus luckpool
